@@ -68,5 +68,5 @@ table.add_rows(
         ["Melbourne", 1566, 3806092],
     ]
 )
-''
+'''
 print(table)
